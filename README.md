@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamerdra&label=Profile%20views&color=0e75b6&style=flat" alt="gamerdra" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamerdra" alt="gamerdra" /></a> </p>
+
 - 🔭 I’m currently working on **Natural Language Processing**
 
 - 🌱 I’m currently learning **Microprocessor and COA**
